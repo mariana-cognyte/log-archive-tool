@@ -1,0 +1,8 @@
+2025-12-17 08:15:23 INFO  [App] Aplicação iniciada com sucesso
+2025-12-17 08:15:24 DEBUG [Config] Arquivo de configuração carregado
+2025-12-17 08:15:25 INFO  [Database] Conexão com o banco estabelecida
+2025-12-17 08:16:02 WARN  [Auth] Tentativa de login com senha incorreta (usuario=jose)
+2025-12-17 08:16:05 INFO  [Auth] Usuário autenticado com sucesso (usuario=ana)
+2025-12-17 08:17:10 ERROR [Database] Falha ao executar consulta SQL
+2025-12-17 08:17:10 ERROR [Database] Detalhes: timeout após 30s
+2025-12-17 08:18:45 INFO  [App] Processo finalizado normalmente
